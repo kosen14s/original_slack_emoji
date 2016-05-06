@@ -1,0 +1,24 @@
+title: languages
+emojis:
+  - name: c
+    src: https://raw.githubusercontent.com/kosen14s/original_slack_emoji/master/images/kosen14s-c.png
+  - name: c++
+    src: https://raw.githubusercontent.com/kosen14s/original_slack_emoji/master/images/kosen14s-c++.png
+  - name: c#
+    src: https://raw.githubusercontent.com/kosen14s/original_slack_emoji/master/images/kosen14s-c#.png
+  - name: perl
+    src: https://raw.githubusercontent.com/kosen14s/original_slack_emoji/master/images/kosen14s-perl.png
+  - name: ruby
+    src: https://raw.githubusercontent.com/kosen14s/original_slack_emoji/master/images/kosen14s-ruby.png
+  - name: python
+    src: https://raw.githubusercontent.com/kosen14s/original_slack_emoji/master/images/kosen14s-python.png
+  - name: haskell
+    src: https://raw.githubusercontent.com/kosen14s/original_slack_emoji/master/images/kosen14s-haskell.png
+  - name: html5
+    src: https://raw.githubusercontent.com/kosen14s/original_slack_emoji/master/images/kosen14s-html5.png
+  - name: gopher
+    src: https://raw.githubusercontent.com/kosen14s/original_slack_emoji/master/images/kosen14s-gopher.png
+  - name: lisp
+    src: https://raw.githubusercontent.com/kosen14s/original_slack_emoji/master/images/kosen14s-lisp.png
+  - name: swift
+    src: https://raw.githubusercontent.com/kosen14s/original_slack_emoji/master/images/kosen14s-swift.png

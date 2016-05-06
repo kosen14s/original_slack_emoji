@@ -1,0 +1,40 @@
+title: words
+emojis:
+  - name: sorena
+    src: https://raw.githubusercontent.com/kosen14s/original_slack_emoji/master/images/kosen14s-sorena.png
+  - name: hoge
+    src: https://raw.githubusercontent.com/kosen14s/original_slack_emoji/master/images/kosen14s-hoge.png
+  - name: wakannaiyo
+    src: https://raw.githubusercontent.com/kosen14s/original_slack_emoji/master/images/kosen14s-wakannaiyo.png
+  - name: yes
+    src: https://raw.githubusercontent.com/kosen14s/original_slack_emoji/master/images/kosen14s-yes.png
+  - name: no
+    src: https://raw.githubusercontent.com/kosen14s/original_slack_emoji/master/images/kosen14s-no.png
+  - name: lol
+    src: https://raw.githubusercontent.com/kosen14s/original_slack_emoji/master/images/kosen14s-lol.png
+  - name: ikemen
+    src: https://raw.githubusercontent.com/kosen14s/original_slack_emoji/master/images/kosen14s-ikemen.png
+  - name: god
+    src: https://raw.githubusercontent.com/kosen14s/original_slack_emoji/master/images/kosen14s-god.png
+  - name: wakari
+    src: https://raw.githubusercontent.com/kosen14s/original_slack_emoji/master/images/kosen14s-wakari.png
+  - name: pro
+    src: https://raw.githubusercontent.com/kosen14s/original_slack_emoji/master/images/kosen14s-pro.png
+  - name: sugoi
+    src: https://raw.githubusercontent.com/kosen14s/original_slack_emoji/master/images/kosen14s-sugoi.png
+  - name: yami
+    src: https://raw.githubusercontent.com/kosen14s/original_slack_emoji/master/images/kosen14s-yami.png
+  - name: hikari
+    src: https://raw.githubusercontent.com/kosen14s/original_slack_emoji/master/images/kosen14s-hikari.png
+  - name: warau
+    src: https://raw.githubusercontent.com/kosen14s/original_slack_emoji/master/images/kosen14s-warau.png
+  - name: naku
+    src: https://raw.githubusercontent.com/kosen14s/original_slack_emoji/master/images/kosen14s-naku.png
+  - name: null
+    src: https://raw.githubusercontent.com/kosen14s/original_slack_emoji/master/images/kosen14s-null.png
+  - name: true
+    src: https://raw.githubusercontent.com/kosen14s/original_slack_emoji/master/images/kosen14s-true.png
+  - name: false
+    src: https://raw.githubusercontent.com/kosen14s/original_slack_emoji/master/images/kosen14s-false.png
+  - name: lambda
+    src: https://raw.githubusercontent.com/kosen14s/original_slack_emoji/master/images/kosen14s-lambda.png
